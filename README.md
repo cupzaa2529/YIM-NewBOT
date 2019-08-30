@@ -1,27 +1,28 @@
+# INSTALL MELALUI TERMUX<br>
 
-# INSTALL MELALUI TERMUX
+pkg install python3 -y<br>
+apt-get install python --upgrade<br>
+pkg install git -y<br>
+pkg install nano -y<br>
+pip3 install rsa<br>
+pip3 install thrift==0.11.0<br>
+pip3 install requests<br>
+pip3 install bs4<br>
+pip3 install gtts<br>
+pip3 install beautifulsoup<br>
+pip3 install googletrans<br>
+pip3 install pafy<br>
+pip3 install humanfriendly<br>
+pip3 install goslate<br>
+pip3 install wikipedia<br>
+pip3 install youtube_dl<br>
+pip3 install tweepy<br>
+pip3 install pytz<br>
+pip3 install html5lib<br>
+pip3 install pafy<br>
 
-pkg install python3 -y
-apt-get install python --upgrade
-pkg install git -y
-pkg install nano -y
-pip3 install rsa
-pip3 install thrift==0.11.0
-pip3 install requests
-pip3 install bs4
-pip3 install gtts
-pip3 install beautifulsoup
-pip3 install googletrans
-pip3 install pafy
-pip3 install humanfriendly
-pip3 install goslate
-pip3 install wikipedia
-pip3 install youtube_dl
-pip3 install tweepy
-pip3 install pytz
-pip3 install html5lib
-pip3 install pafy
 git clone https://github.com/cupzaa2529/YIM-NewBOT.git
+
 #=============================================================
 
 โหลดโทเคน = git clone https://github.com/Cupzaa/QRtoken.git
