@@ -82,8 +82,8 @@ def helpmessage():
                   "║" + "\n" + \
                   "╠✪〘 Help 〙✪════════" + "\n" + \
                   "╠➥ ดู" + "\n" + \
-                  "╠➥ Translate" + "\n" + \
-                  "╠➥ Texttospeech" + "\n" + \
+                  "╠➥ แปล" + "\n" + \
+                  "╠➥ แปลภาษา" + "\n" + \
                   "║" + "\n" + \
                   "╠✪〘 Status 〙✪════════" + "\n" + \
                   "╠➥ รีบอท" + "\n" + \
@@ -365,10 +365,10 @@ def lineBot(op):
                     helpMessage = helpmessage()
                     nadya.sendMessage(to, str(helpMessage))
                     nadya.sendContact(to, "u669aa92773d33c22420105d4546fccdd")
-                elif text.lower() == 'texttospeech':
+                elif text.lower() == 'แปลภาษา':
                     helpTextToSpeech = helptexttospeech()
                     nadya.sendMessage(to, str(helpTextToSpeech))
-                elif text.lower() == 'translate':
+                elif text.lower() == 'แปล':
                     helpTranslate = helptranslate()
                     nadya.sendMessage(to, str(helpTranslate))
 #==============================================================================#

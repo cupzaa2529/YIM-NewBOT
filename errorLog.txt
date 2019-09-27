@@ -1,3 +1,5 @@
 
 [<module 'time' (built-in)>] TalkException(code=3, reason='invalid mid', parameterMap=None)
 [<module 'time' (built-in)>] 'displayName'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
